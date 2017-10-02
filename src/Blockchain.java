@@ -56,9 +56,10 @@ public class Blockchain
     {
         StringBuilder output = new StringBuilder();
         output.append("Blockchain...\n");
-        for(Block block : blocks)
+        for(int i = 0; i < blocks.size(); i++)
         {
-            output.append(block + "\n");
+            output.append("- Block # " + i + "\n")
+            .append(blocks.get(i) + "\n");
         }
         return output.toString();
     }
