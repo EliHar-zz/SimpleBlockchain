@@ -9,8 +9,7 @@ Blockchain...
 	- Mila sent a message to Maxime on Sun Oct 01 21:29:43 PDT 2017 containing: Meeting confirmed.
 	- Maxime sent a message to Mila on Sun Oct 01 21:29:43 PDT 2017 containing: Thanks
 
-================================================================
-================================================================
+---
 
 Blockchain...
 - Previous hash: 0
@@ -26,8 +25,7 @@ Blockchain...
 	- Maxime sent a message to Eli on Sun Oct 01 21:29:43 PDT 2017 containing: Transferred you $2,000.
 	- Eli sent a message to Maxime on Sun Oct 01 21:29:43 PDT 2017 containing: I received it, thanks.
 
-================================================================
-================================================================
+---
 
 Blockchain...
 - Previous hash: 0
